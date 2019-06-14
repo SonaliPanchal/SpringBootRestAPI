@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringRestApi4 Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sonali.panchal
+Implementation-Vendor-Id: com.java4s.sprinngbootbeans
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringRestApi4
+Created-By: Maven Integration for Eclipse
+
